@@ -1,0 +1,16 @@
+body {
+    background-color: #D7AFF7;
+    color: #440B72;
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.catImg {
+    max-height: 30%;
+    max-width: 50%;
+}
